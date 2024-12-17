@@ -7,7 +7,7 @@
             <a href="#">{{ $post['author'] }}</a> | 1 January 2024
         </div>
         <p class="my-4 font-light">{{ $post['body'] }}</p>        
-        <a href="/posts" class="font-medium text-blue-500 hover:underline">&laquo;Back to posts</a>
+        <a href="/posts" class="font-medium text-blue-500 hover:underline">&laquo; Back to posts</a>
     </article>    
     
         
